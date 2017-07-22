@@ -1,0 +1,26 @@
+body {
+  background-color: #ccc;
+  font-family: arial, sans-serif;
+}
+.navigation {
+  position: fixed;
+  height: auto;
+  text-align: center;
+}
+.navigation h1{
+
+
+}
+.navigation ul {
+  padding: 0;
+}
+.navigation li{
+  display: inline-block;
+
+}
+.main {
+
+}
+.main p {
+
+}
