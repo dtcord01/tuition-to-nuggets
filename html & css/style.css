@@ -1,25 +1,30 @@
 body {
-  background-color: #ccc;
+  background-color: #cee6ff;
   font-family: arial, sans-serif;
 }
 .navigation {
-  position: fixed;
+  position: static;
   height: auto;
   text-align: center;
+  border: 10px;
+  border-color: black;
 }
 .navigation h1{
-
+  position: fixed;
+  padding: 10;
 
 }
 .navigation ul {
-  padding: 0;
+  padding: 70;
+  text-align: center; 
 }
 .navigation li{
   display: inline-block;
 
 }
 .main {
-
+  position: fixed;
+  padding: 0;
 }
 .main p {
 
